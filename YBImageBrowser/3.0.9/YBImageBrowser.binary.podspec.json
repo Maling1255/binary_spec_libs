@@ -1,0 +1,22 @@
+{
+  "name": "YBImageBrowser",
+  "version": "3.0.9",
+  "summary": "iOS image browser / iOS 图片浏览器",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n iOS 图片浏览器，功能强大，易于拓展，极致的性能优化和严格的内存控制让其运行更加的流畅和稳健。",
+  "homepage": "https://github.com/indulgeIn",
+  "license": "MIT",
+  "authors": {
+    "杨波": "1106355439@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/YBImageBrowser/3.0.9/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "source_files": "bin_YBImageBrowser_3.0.9/Headers/*",
+  "public_header_files": "bin_YBImageBrowser_3.0.9/Headers/*.h",
+  "vendored_libraries": "bin_YBImageBrowser_3.0.9/*.a"
+}
