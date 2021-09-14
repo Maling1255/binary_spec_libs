@@ -1,0 +1,24 @@
+{
+  "name": "MGCategory",
+  "version": "1.0.1",
+  "summary": "常用的基础分类",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 包括UIKit分类,以及Foundation分类",
+  "homepage": "https://gitee.com/malgee/MGCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "maling": "maling01@mail.open.com.cn"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/MGCategory/1.0.1/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "bin_MGCategory_1.0.1/Headers/*",
+  "public_header_files": "bin_MGCategory_1.0.1/Headers/*.h",
+  "vendored_libraries": "bin_MGCategory_1.0.1/*.a"
+}
